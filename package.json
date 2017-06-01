@@ -29,8 +29,8 @@
         "test": "grunt"
     },
     "dependencies": {
-        "clipboard": "~1.5.5",
-        "angular": ">=1.2.0"
+        "clipboard": "^1.7",
+        "angular": "^1.2"
     },
     "devDependencies": {
         "grunt": "^0.4.5",
